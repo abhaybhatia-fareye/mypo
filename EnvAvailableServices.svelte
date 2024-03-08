@@ -1,7 +1,7 @@
-<div class="flex justify-evenly">
-    <div class="flex justify-center mt-[13%] ">
+<div class="flex justify-center">
+    <div class="flex justify-center m-14 mt-[13%]">
         <div
-            class="w-[15vw] aa hover:w-[20vw] hover:shadow-2xl shadow-md shadow-slate-800 max-w-sm hover:max-w-lg hover:shadow-black-500 hover flex justify-center flex-col bg-gray-200 rounded-md border-2 border-black transition-width duration-1000"
+            class="w-[15vw] aa hover:scale-105 hover:shadow-2xl shadow-md shadow-slate-800 max-w-sm hover:max-w-lg hover:shadow-black-500 flex justify-center flex-col bg-gray-200 rounded-md border-2 border-black transition-all duration-1000"
         >
             <div class="">
                 <div
@@ -16,9 +16,9 @@
         </div>
     </div>
 
-    <div class="flex justify-center mt-[13%] ">
+    <div class="flex justify-center mt-[13%]">
         <div
-            class="w-[22vw] aa hover:w-[27.5vw] hover:shadow-2xl shadow-md shadow-slate-800 hover:shadow-black-500 hover flex justify-center flex-col bg-gray-200 rounded-md border-2 border-black transition-width duration-1000"
+            class="w-[22vw] aa hover:scale-105 hover:shadow-2xl shadow-md shadow-slate-800 hover:shadow-black-500 flex justify-center flex-col bg-gray-200 rounded-md border-2 border-black transition-all duration-1000"
         >
             <div class="">
                 <div
@@ -33,23 +33,23 @@
             <hr />
             <div class="flex justify-center">
                 <div
-                    class="flex justify-center flex-col bg-zinc-600 text-white m-3 hover:shadow-lg hover:shadow-blue-200 p-3 rounded-md "
+                    class="flex justify-center flex-col bg-zinc-600 text-white m-3 hover:shadow-lg hover:shadow-blue-200 p-3 rounded-md"
                 >
-                    <div class="head flex justify-center font-bold text-blue-50 ">
+                    <div class="head flex justify-center font-bold text-blue-50">
                         TRIP CONSUMER
                     </div>
-                    <div class=" flex justify-center font-thin text-blue-50">
+                    <div class="flex justify-center font-thin text-blue-50">
                         v-1.2.2
                     </div>
                 </div>
 
                 <div
-                    class="flex justify-center flex-col bg-zinc-600 text-white hover:shadow-lg hover:shadow-blue-200 m-3 p-3 rounded-md "
+                    class="flex justify-center flex-col bg-zinc-600 text-white hover:shadow-lg hover:shadow-blue-200 m-3 p-3 rounded-md"
                 >
                     <div class="head flex justify-center font-bold text-blue-50">
                         TRIP CONSUMER
                     </div>
-                    <div class=" flex justify-center font-thin text-blue-50">
+                    <div class="flex justify-center font-thin text-blue-50">
                         v-1.2.2
                     </div>
                 </div>
